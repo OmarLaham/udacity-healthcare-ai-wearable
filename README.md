@@ -1,5 +1,5 @@
 
-# healthcare-ai-wearables
+# Motion Compensated Pulse Rate Estimation
 # Overview
 
 This project has 2 main parts.
