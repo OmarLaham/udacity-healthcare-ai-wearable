@@ -19,7 +19,8 @@ A core feature that many users expect from their wearable devices is pulse rate 
 
 Pulse rate is typically estimated by using the PPG sensor. When the ventricles contract, the capillaries in the wrist fill with blood. The (typically green) light emitted by the PPG sensor is absorbed by red blood cells in these capillaries and the photodetector will see the drop in reflected light. When the blood returns to the heart, fewer red blood cells in the wrist absorb the light and the photodetector sees an increase in reflected light. The period of this oscillating waveform is the pulse rate.
 
-![](https://video.udacity-data.com/topher/2020/February/5e3c882a_ppg-mechanics/ppg-mechanics.png)
+![](readme_images/ppg_sensor.png)
+
 
 PPG Sensor on Blood Flow
 
